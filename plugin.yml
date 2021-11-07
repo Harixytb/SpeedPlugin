@@ -1,0 +1,10 @@
+name: SpeedPlugin
+version: 1.0.0
+api: 3.0.0
+main: HarixTeam\Speed
+author: HacheBg
+Discord: https://discord.gg/scwqt6Qr9a
+
+commands:
+  speed:
+    description: "permet de mettre le speed"
